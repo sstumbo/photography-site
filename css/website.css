@@ -8,9 +8,10 @@ h2 {
 }
 
 .jumbotron {
-	background-color: #5c5b5b;
+	background-color: white;
 	font-family: "Allura";
     text-align: center;
+    padding: 1px 1px 1px 1px;
 }
 
 .navbar {
